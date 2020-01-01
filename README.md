@@ -16,3 +16,8 @@ hush-smart-chain -ac_name=ARRRUKIDDING \
 This replica has exactly the same mining schedule as PIRATE as well as block reward. One notable exception
 is that all Hush Smart Chains are Pure Sapling, which means no 1.6GB download would be required to sync
 the `ARRRUKIDDING` chain.
+
+One may note that the halving interval looks different than the 77777 that Pirate normally uses. This was
+the halving interval of the original Pirate chain, which the author mined on, but would have lead to all
+mining rewards being emitted in about 5 years. Komodo internally multiplies the interval by 5 to give a
+~25 year emission and that is where 3888885 comes from.
