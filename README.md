@@ -8,7 +8,9 @@ maximums privacy.
 As an example, we will make a replica of the cryptocoin Pirate (ARRR) in a single command:
 
 ```
-hush-smart-chain -ac_name=ARRRUKIDDING -ac_supply=0 -ac_halving=388885 -ac_private=1 -ac_reward=25600000000
+hush-smart-chain -ac_name=ARRRUKIDDING \
+-ac_supply=0 -ac_halving=388885 -ac_private=1 \
+-ac_reward=25600000000 -addnode=45.76.84.111
 ```
 
 This replica has exactly the same mining schedule as PIRATE as well as block reward. One notable exception
