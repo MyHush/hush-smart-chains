@@ -31,3 +31,9 @@ One may note that the halving interval looks different than the 77777 that Pirat
 the halving interval of the original Pirate chain, which the author mined on, but would have lead to all
 mining rewards being emitted in about 5 years. Komodo internally multiplies the interval by 5 to give a
 ~25 year emission and that is where 3888885 comes from.
+
+# Adding DPoW
+
+Hush Smart Chains support Delayed-Proof-of-Work, though the service must be run and data injected into the network.
+DPoW is not needed for private Hush Smart Chainn. Public Smart Chains that will have financial value need protection
+from double spend attacks, so DPoW is highly encouraged.
