@@ -32,8 +32,16 @@ the halving interval of the original Pirate chain, which the author mined on, bu
 mining rewards being emitted in about 5 years. Komodo internally multiplies the interval by 5 to give a
 ~25 year emission and that is where 3888885 comes from.
 
-# Adding DPoW
+## Private vs Public Hush Smart Chains
 
-Hush Smart Chains support Delayed-Proof-of-Work, though the service must be run and data injected into the network.
+Private Hush Smart Chains are perfect for a group of people who want to use encrypted memos but do not want their
+data on the public Hush mainnet. It allows groups to completely isolate their data, yet still use HUSH technology.
+
+Public Hush Smart Chains would be good for public Hushlists, i.e. a publicly known mailing list that you subscribe to
+and receive messages. They could also be used to launch new Zcash Protocol coins upon our z2z platform.
+
+## Adding DPoW
+
+All Hush Smart Chains support Delayed-Proof-of-Work innately, though the service must be run and data injected into the network.
 DPoW is not needed for private Hush Smart Chainn. Public Smart Chains that will have financial value need protection
 from double spend attacks, so DPoW is highly encouraged.
