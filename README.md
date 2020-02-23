@@ -1,7 +1,7 @@
 # Hush Smart Chains - The z2z Platform
 
 Hush Smart Chains are a way to create Zcash Protocol Proof-of-Work chains, with a focus on fully-shielded (z2z) chains for
-maximums privacy.
+maximum privacy.
 
 ## Creating a Hush Smart Chain
 
