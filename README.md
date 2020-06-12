@@ -10,7 +10,7 @@ You will need the hush3 repo:
 ```
 git clone https://github.com/myhush/hush3
 cd hush3
-./zcutil/build.sh -j4 # uses 4 cores
+./build.sh -j4 # uses 4 cores
 cd src
 ```
 
