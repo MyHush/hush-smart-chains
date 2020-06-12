@@ -42,5 +42,9 @@ and receive messages. They could also be used to launch new Zcash Protocol coins
 ## Adding DPoW
 
 All Hush Smart Chains support Delayed-Proof-of-Work innately, though the service must be run and data injected into the network.
-DPoW is not needed for private Hush Smart Chainn. Public Smart Chains that will have financial value need protection
+DPoW is not needed for private Hush Smart Chain. Public Smart Chains that will have financial value need protection
 from double spend attacks, so DPoW is highly encouraged.
+
+## Getting Help
+
+We are happy to help you build upon the Hush platform, please join our [Discord](https://myhush.org/discord) and ask in #developers
