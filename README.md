@@ -5,7 +5,7 @@ maximum privacy.
 
 ## Creating a Hush Smart Chain
 
-You will need the hush3 repo:
+You will need the [Official Hush full node Git repo](https://github.com/MyHush/hush3):
 
 ```
 git clone https://github.com/myhush/hush3
